@@ -1,0 +1,13 @@
+Tile Ground 32 32
+Tile Ground 96 32
+Tile Ground 160 32
+Tile Ground 224 32
+Tile Ground 288 32
+Tile Ground 352 32
+Tile Ground 416 32
+Tile Ground 544 32
+Tile Ground 672 32
+Tile Ground 800 32
+Tile Ground 928 32
+Tile Ground 992 32
+Player 128 600 48 48 5 20 20 -0.75 Buster

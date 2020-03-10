@@ -1,0 +1,13 @@
+﻿  Animation.cpp
+  Assets.cpp
+  Entity.cpp
+  EntityManager.cpp
+  GameEngine.cpp
+  GameState.cpp
+  GameState_Menu.cpp
+  GameState_Play.cpp
+  main.cpp
+  Physics.cpp
+  Vec2.cpp
+  Generating Code...
+  SFMLGame.vcxproj -> C:\Users\Rizvan\Desktop\Semesters\2018-3 Fall\CS4300\COMP4300_A3 - Working Code\visualstudio\../bin/SFMLGame_d.exe
